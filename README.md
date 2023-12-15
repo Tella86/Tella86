@@ -2,7 +2,7 @@
 
 ###
 
-<img align="right" height="150" src="https://icontechnology.in/img/Services/Software/main.jpg"  />
+<link rel="icon" href="https://i.ibb.co/7Ck5Gt6/Ziroh.png" type="image/x-icon">
 
 ###
 
