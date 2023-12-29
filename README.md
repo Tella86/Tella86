@@ -7,7 +7,7 @@
 ###
 
 <div align="left">
-  <img src="[https://cdn.jsdelivr.net](https://www.bing.com/ck/a?!&&p=a7c1ca9590972e0bJmltdHM9MTcwMzgwODAwMCZpZ3VpZD0yMzM2YTZiYS00NWQ2LTBZkWWuUHNahSjQZtmeoQYjMvmHe1WYuCTzaWQ9NTE4Ng&ptn=3&ver=2&hsh=3&fclid=2336a6ba-45d6-60c8-3a3c-b54a4454616e&psq=UC5bVql7uEr2GDCPE_RJUQjg&u=a1aHR0cHM6Ly93d3cueW91dHViZS5jb20vY2hhbm5lbC9VQzViVnFsN3VFcjJHRENQRV9SSlVRamc&ntb=1)/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
   <img width="12" />
