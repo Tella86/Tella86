@@ -29,7 +29,7 @@
   <a href="https://discord.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&color=7289DA&logoColor=white&style=for-the-badge" height="35" alt="Discord" style="margin-right:6px;" />
   </a>
-  <a href="mailto:your.email@example.com" target="_blank">
+  <a href="mailto:ezems.developers@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=D14836&logoColor=white&style=for-the-badge" height="35" alt="Gmail" style="margin-right:6px;" />
   </a>
   <a href="https://linkedin.com" target="_blank">
