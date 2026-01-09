@@ -112,12 +112,14 @@
 
 <h3 align="left">📊 GitHub Activity</h3>
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tella86&show_icons=true&theme=tokyonight" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tella86&layout=compact&theme=tokyonight" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Tella86&show_icons=true&theme=tokyonight&count_private=true" height="160" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tella86&layout=compact&theme=tokyonight&langs_count=8" height="160" alt="Top Languages" />
 </div>
 <div align="left" style="margin-top:10px;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tella86&theme=tokyonight" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tella86&theme=tokyonight" height="160" alt="GitHub Streak" />
 </div>
+
+<p><em>Note: Stats may take a few moments to load. GitHub caches these images, so if you don't see them immediately, refresh the page.</em></p>
 
 <hr/>
 
