@@ -27,25 +27,6 @@
 
 <hr/>
 
-### 🌟 Pinned Repositories & Featured Work
-
-<div align="center">
-
-| Repository | Description | Tech Stack | Status |
-|------------|-------------|------------|--------|
-| 🔗 [**Your-Repo-Name-1**](https://github.com/Tella86/repo-name) | M-Pesa payment integration system | Laravel · PHP · MySQL | ![Stars](https://img.shields.io/github/stars/Tella86/repo-name?style=social) |
-| 🔗 [**Your-Repo-Name-2**](https://github.com/Tella86/repo-name) | ISP billing automation platform | React · TypeScript · MikroTik | ![Stars](https://img.shields.io/github/stars/Tella86/repo-name?style=social) |
-| 🔗 [**Your-Repo-Name-3**](https://github.com/Tella86/repo-name) | WhatsApp business automation | Node.js · WhatsApp API | ![Stars](https://img.shields.io/github/stars/Tella86/repo-name?style=social) |
-| 🔗 [**Your-Repo-Name-4**](https://github.com/Tella86/repo-name) | Enterprise ERP/CRM system | Laravel · React · MySQL | ![Stars](https://img.shields.io/github/stars/Tella86/repo-name?style=social) |
-
-</div>
-
-<p align="center">
-  <sub>💡 <strong>Note:</strong> Many of my enterprise projects remain private due to client confidentiality. Check out my <a href="https://github.com/Tella86?tab=repositories">58 public repositories</a> for more work!</sub>
-</p>
-
-<hr/>
-
 ### 🎯 Featured Projects
 
 #### 🏦 M-Pesa Payment Integration System
@@ -54,7 +35,6 @@
 **Tech Stack:** Laravel · M-Pesa API (C2B, B2C, STK Push) · MySQL · Redis Queue Workers  
 **Business Impact:** Processes 10,000+ monthly transactions, reduced reconciliation time from 4 hours to 15 minutes  
 **Key Features:** Automatic retry logic, webhook management, transaction dispute resolution  
-📦 **Repository:** [View on GitHub →](https://github.com/Tella86/your-mpesa-repo) *(replace with actual repo link)*
 
 ---
 
@@ -64,7 +44,6 @@
 **Tech Stack:** PHP · MikroTik API · React · TypeScript · Radius Server · MySQL  
 **Business Impact:** Manages 5,000+ active subscribers across 3 ISPs, 99.8% billing accuracy  
 **Key Features:** Automated package upgrades, bandwidth throttling, hotspot management, SMS notifications  
-📦 **Repository:** [View on GitHub →](https://github.com/Tella86/your-isp-repo) *(replace with actual repo link)*
 
 ---
 
@@ -74,7 +53,6 @@
 **Tech Stack:** Laravel · React · MySQL · REST APIs · PDF Generation  
 **Business Impact:** Streamlined operations for 50+ SME clients, improved reporting efficiency by 70%  
 **Key Features:** Multi-tenancy, role-based access, automated invoicing, real-time analytics  
-📦 **Repository:** [View on GitHub →](https://github.com/Tella86/your-erp-repo) *(replace with actual repo link)*
 
 ---
 
@@ -84,7 +62,6 @@
 **Tech Stack:** Node.js · WhatsApp Business API · Twilio · SendGrid · Queue Processing  
 **Business Impact:** Automated 100,000+ customer interactions monthly, 60% cost reduction vs manual support  
 **Key Features:** Template management, scheduled campaigns, chatbot integration, analytics dashboard  
-📦 **Repository:** [View on GitHub →](https://github.com/Tella86/your-whatsapp-repo) *(replace with actual repo link)*
 
 <hr/>
 
@@ -136,60 +113,41 @@
 
 ### 📊 Engineering Impact (GitHub)
 
+<h3 align="left">📊 GitHub Activity</h3>
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tella86&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&include_all_commits=true" height="170" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tella86&layout=compact&theme=tokyonight&langs_count=10&hide_border=true" height="170" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Tella86&show_icons=true&theme=tokyonight&count_private=true" height="160" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tella86&layout=compact&theme=tokyonight&langs_count=8" height="160" alt="Top Languages" />
 </div>
-
 <div align="left" style="margin-top:10px;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tella86&theme=tokyonight&hide_border=true" height="170" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tella86&theme=tokyonight" height="160" alt="GitHub Streak" />
 </div>
-
-<div align="left" style="margin-top:10px;">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tella86&theme=tokyonight" width="100%" alt="Contribution Graph" />
-</div>
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Tella86&style=flat-square&color=blueviolet" alt="Profile Views" />
-  <a href="https://github.com/Tella86?tab=repositories">
-    <img src="https://img.shields.io/badge/Public%20Repos-58-blue?style=flat-square" alt="Public Repositories" />
-  </a>
-  <a href="https://github.com/Tella86?tab=followers">
-    <img src="https://img.shields.io/github/followers/Tella86?style=flat-square&color=success" alt="Followers" />
-  </a>
-</p>
 
 <p><em>Note: Stats may take a few moments to load. GitHub caches these images, so if you don't see them immediately, refresh the page.</em></p>
 
 <hr/>
 
-### 📅 Development Approach & Contribution Philosophy
+### 📈 Contribution History
 
-**Repository Breakdown (58 Public Repos):**
+<div align="left">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tella86&theme=tokyonight" width="100%" alt="Contribution Graph" />
+</div>
+
+<hr/>
+
+### 📅 Development Approach
+
+My GitHub activity reflects a strategic balance of:
+
 - 🔒 **Private Client Work (60%):** Enterprise systems under NDA, proprietary fintech integrations, and custom ISP solutions
 - 🌟 **Public Projects (30%):** Open-source tools, reusable packages, and demonstration projects showcasing technical capabilities
 - 🎓 **Knowledge Sharing (10%):** Technical tutorials, code templates, and developer resources for the community
 
-**Recent GitHub Highlights:**
-- 🚀 **58 Public Repositories** demonstrating diverse technical capabilities
-- ⚡ **Active Contributor** with consistent commit patterns
-- 📦 **Package Development** for Laravel, React, and fintech integrations
-- 🌍 **Community Engagement** through code reviews and technical discussions
-
 *Public contributions represent approximately 40% of my total development work. The majority of my enterprise and client projects remain private due to business sensitivity and contractual obligations.*
 
-**What the activity patterns mean:**
+**What the patterns mean:**
 - **Activity Spikes:** Project launches, feature releases, and intensive development phases
 - **Consistent Commits:** Ongoing maintenance, bug fixes, and incremental improvements
 - **Lower Periods:** Focus on private client deliverables, system architecture, and strategic planning
-
-<hr/>
-
-### 🔥 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Tella86&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
-</div>
 
 <hr/>
 
@@ -203,19 +161,19 @@
 - 💬 **Clear Communicator:** Regular status updates, proactive problem identification, and transparent progress reporting
 
 **Tools & Methodologies:**
-- **Project Management:** Jira, Trello, Linear, Asana
-- **Version Control:** Git, GitHub, GitLab, BitBucket
-- **Communication:** Slack, Microsoft Teams, Zoom, Google Meet
-- **Documentation:** Notion, Confluence, Markdown, Swagger/OpenAPI
+- Project Management: Jira, Trello, Linear, Asana
+- Version Control: Git, GitHub, GitLab, BitBucket
+- Communication: Slack, Microsoft Teams, Zoom, Google Meet
+- Documentation: Notion, Confluence, Markdown, Swagger/OpenAPI
 
 <hr/>
 
 ### 🎓 Continuous Learning & Growth
 
-- 📚 **Actively exploring:** Cloud infrastructure (AWS, DigitalOcean), microservices architecture, and blockchain integrations
-- 🎯 **Current Focus:** Scaling fintech systems for African markets, payment gateway optimizations, and API security best practices
-- 🌱 **Contributing to:** Open-source Laravel packages, React component libraries, and developer tooling
-- 📖 **Sharing Knowledge:** Technical blog posts, YouTube tutorials, and mentoring upcoming developers
+- 📚 Actively exploring: Cloud infrastructure (AWS, DigitalOcean), microservices architecture, and blockchain integrations
+- 🎯 Current Focus: Scaling fintech systems for African markets, payment gateway optimizations, and API security best practices
+- 🌱 Contributing to: Open-source Laravel packages, React component libraries, and developer tooling
+- 📖 Sharing Knowledge: Technical blog posts, YouTube tutorials, and mentoring upcoming developers
 
 <hr/>
 
@@ -261,15 +219,11 @@ I'm currently exploring:
 
 <hr/>
 
-### 📬 Let's Build Something Amazing Together
-
 <p align="left">
   🏢 <strong>Brand:</strong> Ezems Tech Developers<br/>
-  📧 <strong>Email:</strong> ezems.developers@gmail.com<br/>
-  📱 <strong>Alt Email:</strong> tellazone@gmail.com<br/>
+  📧 <strong>Contact:</strong> ezems.developers@gmail.com<br/>
   📍 <strong>Location:</strong> Mombasa, Kenya 🇰🇪 (Open to Remote)<br/>
-  💼 <strong>Status:</strong> Available for Senior/Lead roles and strategic consulting<br/>
-  🌐 <strong>Portfolio:</strong> <a href="https://github.com/Tella86?tab=repositories">View All 58 Public Projects →</a>
+  💼 <strong>Status:</strong> Available for Senior/Lead roles and strategic consulting
 </p>
 
 <p align="left">
@@ -280,8 +234,4 @@ I'm currently exploring:
 
 <p align="center">
   <sub>⭐️ If you find any of my projects helpful, consider giving them a star! | 🤝 Always open to interesting conversations and collaboration opportunities</sub>
-</p>
-
-<p align="center">
-  <sub>💡 <strong>Pro Tip:</strong> Check out my <a href="https://github.com/Tella86?tab=repositories&sort=stargazers">most starred repositories</a> to see what the community finds most valuable!</sub>
 </p>
