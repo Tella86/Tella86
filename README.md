@@ -55,11 +55,11 @@
 
 <h3 align="left">📊 GitHub Activity</h3>
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=JONAH1410&show_icons=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JONAH1410&layout=compact" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Tella86&show_icons=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tella86&layout=compact" height="160" />
 </div>
 <div align="left" style="margin-top:10px;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JONAH1410" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tella86" height="160" />
 </div>
 
 <hr/>
