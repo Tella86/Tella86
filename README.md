@@ -4,10 +4,10 @@
 </h2>
 
 <p align="left">
-  I am a results-driven <strong>Senior Software Engineer</strong> specializing in building
-  <strong>scalable, secure, and business-critical systems</strong>.
-  I design and develop solutions for payments, automation, enterprise management,
-  ISP platforms, and real-world digital transformation.
+  I am a results-driven <strong>Senior Software Engineer</strong> with strong experience in
+  building <strong>scalable, secure, and business-critical systems</strong>.
+  I specialize in full-stack development, enterprise solutions, payment integrations,
+  ISP platforms, and automation systems that solve real-world problems.
 </p>
 
 <!-- Favicon -->
@@ -43,6 +43,7 @@
   <li>✔️ ISP, Hotspot & MikroTik Integrations</li>
   <li>✔️ SMS, Email & WhatsApp Automation</li>
   <li>✔️ Database Design & Performance Optimization</li>
+  <li>✔️ Technical Leadership & System Scalability</li>
 </ul>
 
 <hr/>
@@ -74,9 +75,9 @@
 <h3 align="left">🌍 Remote Work Ready</h3>
 
 <ul>
-  <li>✔️ Experience with distributed & remote teams</li>
-  <li>✔️ Strong documentation & communication</li>
-  <li>✔️ Time-zone flexibility</li>
+  <li>✔️ Experience with distributed and remote teams</li>
+  <li>✔️ Clear technical documentation & communication</li>
+  <li>✔️ Flexible time-zone collaboration</li>
   <li>✔️ Production-ready, maintainable code</li>
   <li>✔️ Long-term system ownership mindset</li>
 </ul>
@@ -87,23 +88,17 @@
 <h3 align="left">🤝 Connect With Me</h3>
 
 <div align="left" style="margin-top:12px;">
-  <a href="https://youtube.com" target="_blank">
+  <a href="https://facebook.com/zirohm" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&color=1877F2&logoColor=white&style=for-the-badge" height="35" />
+  </a>
+  <a href="https://www.linkedin.com/in/ziroh-katana-24b23ba9/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="35" />
+  </a>
+  <a href="https://youtube.com/@zirohmae?si=90I1bOW2b4c-Tbra" target="_blank">
     <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&color=FF0000&logoColor=white&style=for-the-badge" height="35" />
-  </a>
-  <a href="https://instagram.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&color=E4405F&logoColor=white&style=for-the-badge" height="35" />
-  </a>
-  <a href="https://twitch.tv" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&color=9146FF&logoColor=white&style=for-the-badge" height="35" />
-  </a>
-  <a href="https://discord.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&color=7289DA&logoColor=white&style=for-the-badge" height="35" />
   </a>
   <a href="mailto:ezems.developers@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=D14836&logoColor=white&style=for-the-badge" height="35" />
-  </a>
-  <a href="https://linkedin.com">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="35" />
   </a>
 </div>
 
