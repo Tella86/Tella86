@@ -66,7 +66,7 @@
 <h3 align="left">📈 Contribution Graph</h3>
 
 <div align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JONAH1410" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tella86" />
 </div>
 
 <hr/>
