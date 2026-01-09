@@ -54,7 +54,7 @@
 ### 📊 Engineering Impact (GitHub)
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tella86&show_icons=true&theme=tokyonight" height="165" style="margin-right:10px;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JONAH1410&show_icons=true&theme=tokyonight" height="165" style="margin-right:10px;" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Tella86&layout=compact&theme=tokyonight" height="165" />
 </div>
 
