@@ -1,97 +1,120 @@
-<h2 align="left">Hi 👋! My name is Ziroh Katana Mae and I'm a Software Engineer from Kenya - Kilifi County</h2>
+<h2 align="left">
+  Hi 👋! My name is <strong>Ziroh Katana Mae</strong><br/>
+  <sub>Senior Software Engineer & Founder – Ezems Tech Developers | Kenya (Kilifi County)</sub>
+</h2>
 
-<!-- Favicon (only once, in <head> if using full HTML) -->
-<link rel="icon" href="https://i.ibb.co/7Ck5Gt6/Ziroh.png" type="image/x-icon">
-
-###
-
-<!-- Programming & Tech Stack -->
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="TypeScript logo" style="margin-right:12px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React logo" style="margin-right:12px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5 logo" style="margin-right:12px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python logo" style="margin-right:12px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="PHP logo" style="margin-right:12px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="30" alt="Dart logo" style="margin-right:12px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="30" alt="Laravel logo" style="margin-right:12px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="Node.js logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo" style="margin-right:12px;" />
-</div>
-
-###
-
-<!-- Social & Contact Badges -->
-<div align="left" style="margin-top:12px;">
-  <a href="https://youtube.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&color=FF0000&logoColor=white&style=for-the-badge" height="35" alt="YouTube" style="margin-right:6px;" />
-  </a>
-  <a href="https://instagram.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&color=E4405F&logoColor=white&style=for-the-badge" height="35" alt="Instagram" style="margin-right:6px;" />
-  </a>
-  <a href="https://twitch.tv" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&color=9146FF&logoColor=white&style=for-the-badge" height="35" alt="Twitch" style="margin-right:6px;" />
-  </a>
-  <a href="https://discord.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&color=7289DA&logoColor=white&style=for-the-badge" height="35" alt="Discord" style="margin-right:6px;" />
-  </a>
-  <a href="mailto:ezems.developers@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=D14836&logoColor=white&style=for-the-badge" height="35" alt="Gmail" style="margin-right:6px;" />
-  </a>
-  <a href="https://linkedin.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="35" alt="LinkedIn" />
-  </a>
-</div>
-
-###
-
-## 🚀 About Me
-
-I'm a passionate software engineer specializing in full-stack web development and building scalable applications. I love creating solutions that make a difference and constantly expanding my technical expertise.
-
-- 💼 Full Stack Developer with expertise in Laravel, React, and Node.js
-- 🌍 Based in Kilifi County, Kenya 🇰🇪
-- 💡 Passionate about clean code, best practices, and innovative solutions
-- 🎯 Always learning and exploring new technologies
-- 🤝 Open to collaboration on interesting projects
-- 📧 Reach me at: ezems.developers@gmail.com
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tella86&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="Ziroh's GitHub stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tella86&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" height="165" />
-</div>
-
-###
-
-## 🔥 Streak Stats
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Tella86&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" />
-</div>
-
-
-### 💼 What I'm Working On
-
-- 🔭 Currently building scalable web applications with Laravel and React
-- 🌱 Learning advanced system design and cloud architecture
-- 👯 Looking to collaborate on open-source projects
-- 💬 Ask me about PHP, Laravel, JavaScript, or web development in general
-
-### 📈 Contribution Graph
-
-[![Ziroh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Tella86&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-### ✍️ Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Tella86&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+<p align="left">
+  I am a results-driven <strong>Senior Software Engineer</strong> specializing in building
+  <strong>scalable, secure, and business-critical systems</strong>.
+  I design and develop solutions for payments, automation, enterprise management,
+  ISP platforms, and real-world digital transformation.
 </p>
 
-<p align="center">
-  ⭐️ From <a href="https://github.com/Tella86">Tella86</a> | Made with ❤️ in Kenya
+<!-- Favicon -->
+<link rel="icon" href="https://i.ibb.co/7Ck5Gt6/Ziroh.png" type="image/x-icon">
+
+<hr/>
+
+<!-- Programming & Tech Stack -->
+<h3 align="left">🛠️ Tech Stack</h3>
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="TypeScript" style="margin-right:12px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React" style="margin-right:12px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5" style="margin-right:12px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python" style="margin-right:12px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="PHP" style="margin-right:12px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="30" alt="Dart" style="margin-right:12px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="30" alt="Laravel" style="margin-right:12px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="Node.js" style="margin-right:12px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="MySQL" />
+</div>
+
+<hr/>
+
+<!-- Expertise -->
+<h3 align="left">💡 Areas of Expertise</h3>
+
+<ul>
+  <li>✔️ Full-Stack Web & Backend Architecture</li>
+  <li>✔️ Enterprise & Business Systems (ERP, CRM, Billing)</li>
+  <li>✔️ Payment Integrations (M-Pesa, APIs, Automation)</li>
+  <li>✔️ RESTful APIs & Secure Authentication</li>
+  <li>✔️ ISP, Hotspot & MikroTik Integrations</li>
+  <li>✔️ SMS, Email & WhatsApp Automation</li>
+  <li>✔️ Database Design & Performance Optimization</li>
+</ul>
+
+<hr/>
+
+<!-- GitHub Stats -->
+<h3 align="left">📊 GitHub Activity</h3>
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=JONAH1410&show_icons=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JONAH1410&layout=compact" height="160" />
+</div>
+
+<div align="left" style="margin-top:10px;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JONAH1410" height="160" />
+</div>
+
+<hr/>
+
+<!-- Contribution Graph -->
+<h3 align="left">📈 Contribution Graph</h3>
+
+<div align="left">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JONAH1410" />
+</div>
+
+<hr/>
+
+<!-- Remote Readiness -->
+<h3 align="left">🌍 Remote Work Ready</h3>
+
+<ul>
+  <li>✔️ Experience with distributed & remote teams</li>
+  <li>✔️ Strong documentation & communication</li>
+  <li>✔️ Time-zone flexibility</li>
+  <li>✔️ Production-ready, maintainable code</li>
+  <li>✔️ Long-term system ownership mindset</li>
+</ul>
+
+<hr/>
+
+<!-- Social & Contact Badges -->
+<h3 align="left">🤝 Connect With Me</h3>
+
+<div align="left" style="margin-top:12px;">
+  <a href="https://youtube.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&color=FF0000&logoColor=white&style=for-the-badge" height="35" />
+  </a>
+  <a href="https://instagram.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&color=E4405F&logoColor=white&style=for-the-badge" height="35" />
+  </a>
+  <a href="https://twitch.tv" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&color=9146FF&logoColor=white&style=for-the-badge" height="35" />
+  </a>
+  <a href="https://discord.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&color=7289DA&logoColor=white&style=for-the-badge" height="35" />
+  </a>
+  <a href="mailto:ezems.developers@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=D14836&logoColor=white&style=for-the-badge" height="35" />
+  </a>
+  <a href="https://linkedin.com">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="35" />
+  </a>
+</div>
+
+<hr/>
+
+<p align="left">
+  💼 <strong>Open to Senior / Lead Remote Roles, Consulting & Collaborations</strong><br/>
+  🏢 Brand: <strong>Ezems Tech Developers</strong><br/>
+  📧 Contact: <strong>ezems.developers@gmail.com</strong>
+</p>
+
+<p align="left">
+  <em>“I don’t just write code — I build systems businesses depend on.”</em>
 </p>
