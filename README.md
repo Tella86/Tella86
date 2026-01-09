@@ -88,7 +88,7 @@
 <h3 align="left">🤝 Connect With Me</h3>
 
 <div align="left" style="margin-top:12px;">
-  <a href="https://facebook.com/zirohm" target="_blank">
+  <a href="https://www.facebook.com/ezemstech" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&color=1877F2&logoColor=white&style=for-the-badge" height="35" />
   </a>
   <a href="https://www.linkedin.com/in/ziroh-katana-24b23ba9/" target="_blank">
