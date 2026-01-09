@@ -70,23 +70,6 @@ I'm a passionate software engineer specializing in full-stack web development an
   <img src="https://streak-stats.demolab.com/?user=Tella86&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" />
 </div>
 
-## 🏆 Featured Projects
-
-#### 📝 [Computer-essitional-signup_login-assigment](https://github.com/Tella86/Computer-essitional-signup_login-assigment)
-A comprehensive authentication system with signup and login functionality built with PHP.
-
-#### 🗳️ [final-project_ezems](https://github.com/Tella86/final-project_ezems)
-An online voting system designed for secure and efficient electronic voting.
-
-#### 💼 [facebook-php-business-sdk](https://github.com/Tella86/facebook-php-business-sdk)
-SDK for Facebook Ads API integration, facilitating application development for Facebook advertising.
-
-#### 💰 [shanzypayroll](https://github.com/Tella86/shanzypayroll)
-Payroll management system built with PHP for efficient employee payment processing.
-
-###
-
-###
 
 ### 💼 What I'm Working On
 
