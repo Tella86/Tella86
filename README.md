@@ -20,6 +20,9 @@
   <a href="mailto:ezems.developers@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  <a href="https://youtube.com/@zirohmae" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
 </p>
 
 <hr/>
@@ -126,8 +129,10 @@
 ### 📈 Contribution History
 
 <div align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tella86&theme=tokyonight" width="100%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tella86&theme=tokyonight" width="100%" alt="Contribution Graph" />
 </div>
+
+<hr/>
 
 ### 📅 Development Approach
 
@@ -176,16 +181,16 @@ My GitHub activity reflects a strategic balance of:
 
 <div align="left" style="margin-top:12px;">
   <a href="https://www.linkedin.com/in/ziroh-katana-24b23ba9/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="35" />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="35" alt="LinkedIn" />
   </a>
   <a href="https://youtube.com/@zirohmae" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&color=FF0000&logoColor=white&style=for-the-badge" height="35" />
+    <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&color=FF0000&logoColor=white&style=for-the-badge" height="35" alt="YouTube" />
   </a>
   <a href="https://www.facebook.com/ezemstech" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&color=1877F2&logoColor=white&style=for-the-badge" height="35" />
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&color=1877F2&logoColor=white&style=for-the-badge" height="35" alt="Facebook" />
   </a>
   <a href="mailto:ezems.developers@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=D14836&logoColor=white&style=for-the-badge" height="35" />
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=D14836&logoColor=white&style=for-the-badge" height="35" alt="Gmail" />
   </a>
 </div>
 
