@@ -1,6 +1,6 @@
 <h2 align="left">
   Hi 👋! My name is <strong>Ziroh Katana Mae</strong><br/>
-  <sub>Senior Software Engineer & Founder – Ezems Tech Developers | Kenya 🇰🇪</sub>
+  <sub>Senior Software Developer Engineer & Founder – Ezems Tech Developers | Kenya 🇰🇪</sub>
 </h2>
 
 <p align="left">
