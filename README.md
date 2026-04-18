@@ -176,10 +176,6 @@ Led distributed engineering teams across EMEA and EAT time zones. Full SDLC owne
 </div>
 
 ---
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tella86&theme=tokyonight" height="160" />
-</p>
 ## Remote readiness
 
 | Area | Detail |
