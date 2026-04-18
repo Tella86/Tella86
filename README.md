@@ -8,7 +8,7 @@
 </p>
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/ezems-tech-24b23ba9/" target="_blank">
+  <a href="https://www.linkedin.com/in/ziroh-katana-24b23ba9/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:ezems.developers@gmail.com">
