@@ -228,7 +228,7 @@ Led distributed engineering teams across EMEA and EAT time zones. Full SDLC owne
   🌐 <strong>Website:</strong> <a href="https://ezems.co.ke">ezems.co.ke</a><br/>
   📧 <strong>Email:</strong> ezems.developers@gmail.com<br/>
   📞 <strong>Phone / WhatsApp:</strong> +254 101 086 123<br/>
-  📍 <strong>Location:</strong> Kilifi, Kenya 🇰🇪 — open to remote<br/>
+  📍 <strong>Location:</strong> Mombasa, Kenya 🇰🇪 — open to remote<br/>
   💼 <strong>Status:</strong> Available for senior/lead roles and strategic consulting
 </p>
 
