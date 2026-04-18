@@ -8,7 +8,7 @@
 </p>
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/ziroh-katana-24b23ba9/" target="_blank">
+  <a href="https://www.linkedin.com/in/ezems-tech-24b23ba9/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:ezems.developers@gmail.com">
@@ -225,7 +225,9 @@ Led distributed engineering teams across EMEA and EAT time zones. Full SDLC owne
 
 <p align="left">
   🏢 <strong>Brand:</strong> Ezems Tech Developers<br/>
-  📧 <strong>Contact:</strong> ezems.developers@gmail.com<br/>
+  🌐 <strong>Website:</strong> <a href="https://ezems.co.ke">ezems.co.ke</a><br/>
+  📧 <strong>Email:</strong> ezems.developers@gmail.com<br/>
+  📞 <strong>Phone / WhatsApp:</strong> +254 101 086 123<br/>
   📍 <strong>Location:</strong> Mombasa, Kenya 🇰🇪 — open to remote<br/>
   💼 <strong>Status:</strong> Available for senior/lead roles and strategic consulting
 </p>
