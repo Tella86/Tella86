@@ -176,16 +176,6 @@ Led distributed engineering teams across EMEA and EAT time zones. Full SDLC owne
 </div>
 
 ---
-## 📈 GitHub activity
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tella86&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tella86&layout=compact&theme=tokyonight" height="160"/>
-</p>
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tella86&theme=tokyonight" height="160"/>
-</p>
 ## Remote readiness
 
 | Area | Detail |
