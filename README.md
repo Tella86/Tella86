@@ -168,8 +168,9 @@ Led distributed engineering teams across EMEA and EAT time zones. Full SDLC owne
 - **Lower periods** — focus on private client deliverables, system architecture planning, and consulting engagements
 
 <div align="left">
-  
-  <img src="https://https://ezems.vercel.app//api?username=Tella86&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" height="160" alt="GitHub Stats" />
+  <img src="https://ezems.vercel.app/api?username=Tella86&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" height="160" />
+
+  <img src="https://https://ezems.vercel.app/api?username=Tella86&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" height="160" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tella86&layout=compact&theme=tokyonight&langs_count=8" height="160" alt="Top Languages" />
 </div>
 <div align="left" style="margin-top:10px;">
