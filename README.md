@@ -42,18 +42,48 @@ Founder & Senior Software Engineer building fintech, ISP billing, and enterprise
 
 ### 🏦 M-Pesa Payment Integration System
 
-> Enterprise-grade payment engine with event-driven architecture and automated reconciliation
+> Enterprise-grade payment engine — event-driven architecture, async queue processing, and automated reconciliation for high-volume African fintech systems.
 
-**Stack:** `Laravel` · `M-Pesa Daraja API (C2B / B2C / STK Push / STK Query)` · `Redis Queue Workers` · `MySQL` · `Webhook Management`
+**Stack:** `Laravel` · `PHP` · `Redis` · `MySQL` · `M-Pesa Daraja API` · `Laravel Horizon`
 
-**Architecture highlights:**
-- Redis-backed async queue workers handle transaction processing with exponential backoff retry logic
-- Idempotent webhook handlers prevent duplicate transaction recording under network failures
-- Real-time STK Push status polling with configurable timeout and fallback notification
-- Reconciliation pipeline cross-checks Safaricom statements against internal ledger — automated, nightly, zero manual intervention
-- PCI-DSS aligned audit logging with immutable transaction records and dispute resolution workflow
+---
 
-**Impact:** 10,000+ transactions/month · reconciliation cut from 4 hours → 15 minutes · dispute resolution fully automated
+## 🏗 Architecture Overview
+
+- **Payment API Layer**
+  Handles STK Push, C2B, B2C, STK Query, and balance inquiry operations through Safaricom Daraja API with real-time status tracking.
+
+- **Webhook Ingestion Layer**
+  Secure, idempotent webhook handlers with signature validation and Redis-based deduplication to guarantee exactly-once processing.
+
+- **Queue Processing System**
+  Redis-backed async worker pool processes all payment events outside request cycle with retry logic and dead-letter queue handling.
+
+- **Transaction Ledger**
+  Immutable financial record system with audit-grade logs and double-entry-compatible transaction structure.
+
+- **Reconciliation Engine**
+  Nightly automated matching of Safaricom statements against internal ledger with anomaly detection and dispute flagging.
+
+---
+
+## 📊 Production Impact
+
+- 💳 10,000+ transactions processed monthly  
+- ⏱ Reconciliation time reduced: 4 hours → 15 minutes  
+- 💰 $500K+ monthly transaction volume processed  
+- 🤖 Fully automated dispute resolution pipeline  
+- 🔁 Zero duplicate transaction incidents in production  
+
+---
+
+## ⚙️ Key Engineering Outcomes
+
+- Built exactly-once payment processing system using Redis locks + idempotent webhooks  
+- Designed event-driven architecture separating API layer from payment processing logic  
+- Implemented fault-tolerant queue system with retry, backoff, and dead-letter handling  
+- Automated reconciliation pipeline eliminating manual financial verification work  
+- Achieved production-grade fintech reliability under real transaction load  
 
 ---
 
@@ -102,35 +132,99 @@ Founder & Senior Software Engineer building fintech, ISP billing, and enterprise
 
 ### 📊 Enterprise ERP & CRM Platform
 
-> Multi-tenant SaaS business management platform with accounting, inventory, and CRM modules
+> Multi-tenant SaaS business management platform — double-entry accounting, FIFO inventory costing, CRM, and automated invoicing serving 50+ SME clients across Kenya.
 
-**Stack:** `Laravel` · `React` · `MySQL` · `REST APIs` · `Multi-tenancy` · `Role-based Access Control` · `PDF Generation`
+**Stack:** `Laravel` · `React` · `TypeScript` · `MySQL` · `Redis` · `SendGrid` · `M-Pesa Daraja API`
 
-**Architecture highlights:**
-- Tenant isolation implemented at DB schema level — shared application, separate data namespaces
-- Double-entry accounting module with FIFO inventory costing and automated journal entries
-- Row-level RBAC spanning accounting, HR, and operations modules with granular permission scoping
-- Automated invoicing pipeline with PDF generation, delivery tracking, and payment reconciliation
-- Domain boundaries designed for eventual microservice extraction — clean service interfaces throughout
+---
 
-**Impact:** 50+ SME clients · reporting efficiency improved 70% · zero cross-tenant data incidents in 3 years
+## 🏗 Architecture Overview
+
+- **Multi-Tenant SaaS Layer**
+  Schema-level isolation with domain-based tenant resolution ensuring complete data separation per client while maintaining a shared application core.
+
+- **Accounting Engine**
+  Fully automated double-entry system generating balanced journal entries for every financial transaction, with support for financial statements (P&L, Balance Sheet, Cash Flow).
+
+- **Inventory System**
+  FIFO costing engine with automated COGS journal entries, stock tracking, reorder alerts, and multi-warehouse transfer workflows.
+
+- **CRM Module**
+  End-to-end lead management system — leads → opportunities → quotes → invoices → payments with full activity tracking and pipeline visibility.
+
+- **Invoicing & Payment Pipeline**
+  Automated invoice generation, branded PDF templates, multi-channel delivery (Email + WhatsApp), and real-time reconciliation via M-Pesa callbacks.
+
+- **RBAC & Audit System**
+  Role-based access control with granular permissions across all modules and full audit trail tracking for every data operation.
+
+---
+
+## 📊 Production Impact
+
+- 🏢 50+ SME clients actively using the platform  
+- 📈 70% improvement in reporting efficiency  
+- 🔒 Zero cross-tenant data leakage incidents (3+ years)  
+- 🤖 100% automation of invoicing workflows  
+- 📦 Fully automated FIFO inventory costing and journal posting  
+
+---
+
+## ⚙️ Key Engineering Outcomes
+
+- Eliminated manual accounting and invoicing operations through full automation  
+- Implemented scalable multi-tenant architecture supporting multiple businesses on a single system  
+- Reduced financial reporting time significantly through automated statement generation  
+- Improved operational accuracy via real-time reconciliation with M-Pesa payment flows  
+- Designed system for future microservice extraction with clean domain boundaries  
 
 ---
 
 ### 🤖 WhatsApp Business Automation Suite
 
-> Multi-channel communication platform with intelligent routing across WhatsApp, SMS, and Email
+> Multi-channel communication platform — intelligent routing across WhatsApp Business Cloud API, Twilio SMS, and SendGrid Email with NLP chatbot, campaign automation, and analytics tracking.
 
-**Stack:** `Node.js` · `WhatsApp Business Cloud API` · `Twilio` · `SendGrid` · `Queue Processing` · `Chatbot NLP`
+**Stack:** `Node.js` · `TypeScript` · `Redis` · `MySQL` · `WhatsApp Business Cloud API` · `Twilio` · `SendGrid`
 
-**Architecture highlights:**
-- Unified routing layer normalises message delivery across WhatsApp, SMS, and Email with per-channel fallback logic
-- Template management system enforces Meta's 24-hour session window constraints and handles template approval state tracking
-- Queue-backed campaign scheduler with per-tier API rate limiting to stay within WhatsApp Cloud API caps
-- Chatbot NLP layer handles tier-1 support resolution with configurable confidence threshold for live agent handoff
-- Analytics dashboard tracks delivery rates, open rates, and resolution ratios per campaign and channel
+---
 
-**Impact:** 100,000+ automated interactions/month · 60% cost reduction vs manual support · 40% of tier-1 queries auto-resolved
+## 🏗 Architecture Overview
+
+- **Inbound Message Router**
+  Normalizes incoming messages from WhatsApp Webhooks, Twilio SMS, and SendGrid inbound email into a unified event format for processing.
+
+- **NLP Chatbot Engine**
+  Handles intent classification, entity extraction, and conversation state management with configurable confidence-based escalation to live agents.
+
+- **Outbound Routing Layer**
+  Smart channel selection with fallback logic:
+  WhatsApp → SMS → Email based on delivery success and contact preferences.
+
+- **Campaign Scheduler**
+  Queue-based campaign execution with rate limiting, audience segmentation, and controlled delivery windows to comply with platform API limits.
+
+- **Analytics Engine**
+  Tracks delivery status, engagement metrics, and chatbot resolution performance across all communication channels.
+
+---
+
+## 📊 Production Impact
+
+- 📱 100,000+ automated interactions per month  
+- 💰 60% reduction in support operational costs  
+- 🤖 40% of tier-1 queries fully automated  
+- 📊 Unified communication across WhatsApp, SMS, and Email  
+- ⚡ Real-time escalation to human agents based on NLP confidence scoring  
+
+---
+
+## ⚙️ Key Engineering Outcomes
+
+- Built a unified multi-channel messaging abstraction layer across 3 external APIs  
+- Implemented queue-driven rate limiting system to prevent API throttling  
+- Designed NLP-based intent routing system for automated customer support  
+- Reduced human intervention through automated resolution workflows  
+- Created scalable campaign system capable of handling high-volume messaging safely  
 
 ---
 
