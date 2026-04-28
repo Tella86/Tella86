@@ -59,17 +59,44 @@ Founder & Senior Software Engineer building fintech, ISP billing, and enterprise
 
 ### 🌐 ISP Management & Billing Platform
 
-> End-to-end ISP operations platform covering subscriber lifecycle, bandwidth control, and billing
+> End-to-end ISP operations platform — subscriber lifecycle management, real-time bandwidth control via MikroTik RouterOS API, RADIUS authentication, and M-Pesa-driven automated billing.
 
 **Stack:** `PHP` · `MikroTik RouterOS API` · `React` · `TypeScript` · `FreeRADIUS` · `MySQL` · `SMS Gateway`
 
-**Architecture highlights:**
-- RouterOS API bridge enables real-time bandwidth throttling, PPPoE session management, and hotspot user provisioning from a single admin interface
-- FreeRADIUS integration handles subscriber authentication and accounting with custom attribute mapping per package tier
-- Billing engine supports dynamic package pricing, prorated renewals, and automated suspension/reactivation triggered by M-Pesa payment callbacks
-- Multi-ISP multi-tenancy with per-tenant router config isolation and subscriber namespace separation
+---
 
-**Impact:** 5,000+ active subscribers · 99.8% billing accuracy · zero manual suspension operations
+## 🏗 Architecture Highlights
+
+- **RouterOS API Integration**
+  Enables real-time bandwidth throttling, PPPoE session management, and hotspot user provisioning from a single unified admin interface.
+
+- **FreeRADIUS Authentication Layer**
+  Handles subscriber authentication and accounting with custom attribute mapping per package tier, ensuring accurate session tracking and policy enforcement.
+
+- **Billing Engine**
+  Supports dynamic package pricing, prorated renewals, and automated suspension/reactivation triggered instantly via M-Pesa payment callbacks.
+
+- **Multi-Tenant Architecture**
+  ISP-level isolation with per-tenant router configuration separation and subscriber namespace isolation to ensure data security and scalability across multiple providers.
+
+---
+
+## 📊 Production Impact
+
+- 👥 5,000+ active subscribers managed across 3 ISPs  
+- 🎯 99.8% billing accuracy achieved  
+- 🤖 100% automation of suspension and reactivation workflows  
+- 📡 3 ISP providers running on a single platform (multi-tenant system)  
+- ⚡ Real-time bandwidth policy enforcement via RouterOS API  
+
+---
+
+## 🔐 Key Engineering Outcomes
+
+- Eliminated manual ISP suspension processes through event-driven billing automation  
+- Reduced billing inconsistencies to near-zero using reconciliation logic tied to M-Pesa callbacks  
+- Improved operational scalability by introducing tenant-isolated ISP environments  
+- Enabled real-time network control directly from web-based admin dashboards  
 
 ---
 
