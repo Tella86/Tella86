@@ -1,12 +1,14 @@
 <h2 align="left">
   Hi, I'm <strong>Ziroh Katana Mae</strong><br/>
-  <sub>Senior Software Engineer &amp; Founder — Ezems Tech Developers · Mombasa, Kenya 🇰🇪</sub>
+  <sub>Senior Software Engineer specializing in Fintech, ISP Automation & Enterprise Systems. I build scalable payment infrastructure, billing systems, and API-driven platforms across African markets.</sub>
 </h2>
 
 <p align="left">
-  I architect <strong>payment infrastructure, ISP billing systems, and enterprise automation</strong> for African markets — systems that handle real financial load, not demos. With 8+ years of production experience, I build full-stack solutions from MikroTik RouterOS API integrations to M-Pesa Daraja reconciliation engines, serving clients across Kenya and EMEA.
+ Software Engineer & Systems Architect focused on payment systems, ISP infrastructure, and enterprise SaaS platforms. Experienced in building high-volume, production-grade systems in fintech and telecom environments.
 </p>
-
+<p align="left">
+Founder & Senior Software Engineer building fintech, ISP billing, and enterprise automation systems for African markets. Specializing in scalable APIs, payment reconciliation, and distributed system design.
+</p>
 <p align="left">
   <a href="https://www.linkedin.com/in/ziroh-katana-24b23ba9/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
